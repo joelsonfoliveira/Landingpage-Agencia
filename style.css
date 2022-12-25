@@ -53,5 +53,9 @@ span {
     margin: 0 auto 8px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .ondas {
 }
