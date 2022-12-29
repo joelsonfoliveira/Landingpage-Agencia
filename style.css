@@ -1,5 +1,4 @@
 body {
-    /* border: solid 3px blue; */
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-size: 15px;
@@ -9,7 +8,6 @@ body {
 }
 
 #main {
-    /* border: black solid 1px; */
     width: 626px;
     margin: 0 auto 35px;
 }
@@ -29,14 +27,11 @@ h1 span {
 }
 
 p {
-    /* border: #EE24FF solid 1px; */
     font-weight: 400;
     color: #828282;
     margin: 16px auto 32px;
     padding: 0;
     width: 540px;
-    /* height: 107px; */
-    /* text-align: justify; */
 }
 
 p span {
@@ -49,7 +44,6 @@ span {
 }
 
 #footer {
-    /* border: solid 1px #EE24FF; */
     font-weight: 700;
     font-size: 15px;
     line-height: 147.68%;
@@ -72,8 +66,6 @@ a {
 }
 
 #wave {
-    /* border: 2px solid red; */
-    /* bottom: 0; */
     background-image: url("images/Wave.png");
     background-repeat: no-repeat;
     background-size: 100%;
